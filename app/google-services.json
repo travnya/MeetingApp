@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229882876568",
+    "project_id": "videoapp-590c4",
+    "storage_bucket": "videoapp-590c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229882876568:android:cb597052dbda74887f36ed",
+        "android_client_info": {
+          "package_name": "com.example.meetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229882876568-mbenb0dhn93df5lkkr67jjnaidhjaike.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIB0X-9t0iakwr7PJVSbTaGlo7jFGlGeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229882876568-mbenb0dhn93df5lkkr67jjnaidhjaike.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
